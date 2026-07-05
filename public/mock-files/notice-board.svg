@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1200">
+  <rect width="900" height="1200" fill="#f8fafc"/>
+  <rect x="70" y="70" width="760" height="1060" rx="28" fill="#ffffff" stroke="#cbd5e1" stroke-width="4"/>
+  <rect x="120" y="130" width="220" height="38" rx="19" fill="#dbeafe"/>
+  <text x="150" y="155" font-family="Arial, sans-serif" font-size="24" font-weight="700" fill="#1d4ed8">NU NOTICE</text>
+  <text x="120" y="235" font-family="Arial, sans-serif" font-size="42" font-weight="700" fill="#0f172a">Form Fill-up Schedule</text>
+  <text x="120" y="300" font-family="Arial, sans-serif" font-size="22" fill="#475569">Honours 2nd Year students must complete online submission</text>
+  <text x="120" y="336" font-family="Arial, sans-serif" font-size="22" fill="#475569">between 12 July 2026 and 24 July 2026.</text>
+  <rect x="120" y="395" width="660" height="2" fill="#e2e8f0"/>
+  <text x="120" y="470" font-family="Arial, sans-serif" font-size="24" fill="#0f172a">• Online form fill-up portal opens at 10:00 AM.</text>
+  <text x="120" y="525" font-family="Arial, sans-serif" font-size="24" fill="#0f172a">• College verification remains mandatory.</text>
+  <text x="120" y="580" font-family="Arial, sans-serif" font-size="24" fill="#0f172a">• Late fee applies after the main schedule.</text>
+  <rect x="120" y="880" width="220" height="56" rx="28" fill="#0f172a"/>
+  <text x="168" y="916" font-family="Arial, sans-serif" font-size="22" font-weight="700" fill="#ffffff">Official Copy</text>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1200">
+  <rect width="900" height="1200" fill="#ecfeff"/>
+  <rect x="70" y="70" width="760" height="1060" rx="28" fill="#ffffff"/>
+  <text x="120" y="180" font-family="Arial, sans-serif" font-size="30" font-weight="700" fill="#0f766e">CLASS NOTES</text>
+  <text x="120" y="260" font-family="Arial, sans-serif" font-size="42" font-weight="700" fill="#0f172a">History of English Literature</text>
+  <text x="120" y="330" font-family="Arial, sans-serif" font-size="24" fill="#475569">Quick revision pack for major periods and writers</text>
+  <text x="120" y="430" font-family="Arial, sans-serif" font-size="24" fill="#0f172a">• Medieval background</text>
+  <text x="120" y="485" font-family="Arial, sans-serif" font-size="24" fill="#0f172a">• Elizabethan prose and drama</text>
+  <text x="120" y="540" font-family="Arial, sans-serif" font-size="24" fill="#0f172a">• Romantic movement</text>
+  <text x="120" y="595" font-family="Arial, sans-serif" font-size="24" fill="#0f172a">• Victorian social themes</text>
+</svg>

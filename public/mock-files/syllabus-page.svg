@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1200">
+  <rect width="900" height="1200" fill="#f8fafc"/>
+  <rect x="70" y="70" width="760" height="1060" rx="28" fill="#ffffff"/>
+  <text x="120" y="170" font-family="Arial, sans-serif" font-size="28" font-weight="700" fill="#0369a1">SYLLABUS</text>
+  <text x="120" y="240" font-family="Arial, sans-serif" font-size="44" font-weight="700" fill="#0f172a">History of English Literature</text>
+  <text x="120" y="305" font-family="Arial, sans-serif" font-size="24" fill="#475569">ENG-121 · Honours 1st Year</text>
+  <text x="120" y="400" font-family="Arial, sans-serif" font-size="25" fill="#0f172a">1. Old English and Middle English background</text>
+  <text x="120" y="455" font-family="Arial, sans-serif" font-size="25" fill="#0f172a">2. Renaissance drama and poetry</text>
+  <text x="120" y="510" font-family="Arial, sans-serif" font-size="25" fill="#0f172a">3. Restoration to Romantic period</text>
+  <text x="120" y="565" font-family="Arial, sans-serif" font-size="25" fill="#0f172a">4. Victorian prose and modern transition</text>
+</svg>

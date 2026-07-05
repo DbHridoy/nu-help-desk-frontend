@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1200">
+  <rect width="900" height="1200" fill="#f1f5f9"/>
+  <rect x="80" y="80" width="740" height="1040" rx="30" fill="#fff7ed"/>
+  <text x="130" y="180" font-family="Arial, sans-serif" font-size="30" font-weight="700" fill="#9a3412">ENGLISH DEPARTMENT UPDATE</text>
+  <text x="130" y="270" font-family="Arial, sans-serif" font-size="46" font-weight="700" fill="#0f172a">Extended Library Hours</text>
+  <text x="130" y="350" font-family="Arial, sans-serif" font-size="24" fill="#334155">Reading room support now continues until 7:00 PM on weekdays.</text>
+  <text x="130" y="408" font-family="Arial, sans-serif" font-size="24" fill="#334155">Applicable for English Honours students preparing for tutorials.</text>
+  <rect x="130" y="470" width="600" height="180" rx="20" fill="#ffffff"/>
+  <text x="165" y="545" font-family="Arial, sans-serif" font-size="26" font-weight="700" fill="#0f172a">Updated Timing</text>
+  <text x="165" y="595" font-family="Arial, sans-serif" font-size="24" fill="#475569">Sunday to Thursday: 9:00 AM - 7:00 PM</text>
+</svg>
